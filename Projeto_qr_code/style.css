@@ -2,6 +2,7 @@ body{
     padding: 0;
     margin: 0;
     background-color: hsl(212, 45%, 89%);
+    position: relative;
 }
 
 #container{
@@ -11,4 +12,6 @@ body{
     height: 100%;
     border: 2px solid black;
     margin: auto;
+    position: absolute;
+    top: 50%;
 }

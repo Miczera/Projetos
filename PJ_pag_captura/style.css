@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(71, 196, 235);
+    padding: 5px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+
+nav{
+    background-image: url(IMAGE/people.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#forms{
+    border: 2px solid yellow;
+    padding: 10px;
+    width: 400px;
+    height: 600px;
+}
+
+img{
+    float: left;
+    width: 300px;
+    
+}
